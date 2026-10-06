@@ -1,0 +1,350 @@
+[20:23:00] INFO — Event: modified — C:\RansomGuard\protected_folder\backup_keys.pem
+[20:23:00] WARNING — THREAT severity=100 reasons=['DECOY TOUCHED: backup_keys.pem']
+[20:23:32] WARNING — Killed processes: []
+[20:23:32] WARNING — Locked files: 9
+[20:23:33] INFO — Decoys restored.
+[22:10:07] INFO — Event: modified — C:\RansomGuard\protected_folder\backup_keys.pem
+[22:10:07] WARNING — THREAT severity=100 reasons=['DECOY TOUCHED: backup_keys.pem']
+[22:10:44] WARNING — Killed processes: []
+[22:10:44] WARNING — Locked files: 15
+[22:10:45] INFO — Decoys restored.
+[22:16:40] INFO — Building initial vault snapshot...
+[22:16:41] INFO — [Rollback] Snapshot complete: 12 files protected.
+[22:16:59] INFO — Event: modified — C:\RansomGuard\protected_folder\backup_keys.pem
+[22:16:59] WARNING — THREAT severity=100 reasons=['DECOY TOUCHED: backup_keys.pem']
+[22:17:38] WARNING — Killed processes: []
+[22:17:38] WARNING — Unlocked files: 18
+[22:17:38] WARNING — Starting auto-rollback...
+[22:17:38] INFO — [Rollback] Restored: Financial.xlsx
+[22:17:38] INFO — [Rollback] Restored: Project.docx
+[22:17:38] INFO — [Rollback] Restored: Resume.pdf
+[22:17:38] INFO — [Rollback] Removed rogue file: backup_keys.pem.locked
+[22:17:38] INFO — [Rollback] Removed rogue file: bitcoin_wallet.dat.locked
+[22:17:38] INFO — [Rollback] Removed rogue file: Financial.xlsx.locked
+[22:17:38] INFO — [Rollback] Removed rogue file: Password_Backup.txt.locked
+[22:17:38] INFO — [Rollback] Removed rogue file: Project.docx.locked
+[22:17:38] INFO — [Rollback] Removed rogue file: Resume.pdf.locked
+[22:17:38] INFO — [Rollback] Removed rogue file: Salary_2026.xlsx.locked
+[22:17:38] INFO — [Rollback] Removed rogue file: _AAAA_urgent_budget.docx.locked
+[22:17:38] INFO — [Rollback] Removed rogue file: ~$Project_COPY.docx.locked
+[22:17:38] INFO — [Rollback] Removed ransomware file: backup_keys.pem.locked.locked
+[22:17:38] INFO — [Rollback] Removed ransomware file: bitcoin_wallet.dat.locked.locked
+[22:17:38] INFO — [Rollback] Removed ransomware file: Financial.xlsx.locked.locked
+[22:17:38] INFO — [Rollback] Removed ransomware file: Password_Backup.txt.locked.locked
+[22:17:38] INFO — [Rollback] Removed ransomware file: Project.docx.locked.locked
+[22:17:38] INFO — [Rollback] Removed ransomware file: Resume.pdf.locked.locked
+[22:17:38] INFO — [Rollback] Removed ransomware file: Salary_2026.xlsx.locked.locked
+[22:17:38] INFO — [Rollback] Removed ransomware file: _AAAA_urgent_budget.docx.locked.locked
+[22:17:38] INFO — [Rollback] Removed ransomware file: ~$Project_COPY.docx.locked.locked
+[22:17:38] WARNING — [Rollback] Result: {'restored': 3, 'removed_rogue': 18, 'failed': 0, 'timestamp': '22:17:38'}
+[22:17:38] INFO — Incident snapshot saved: C:\RansomGuard\incident_snapshot.txt
+[22:54:29] INFO — Building initial vault snapshot...
+[22:54:29] INFO — [Rollback] Snapshot complete: 3 files protected.
+[22:54:53] INFO — Event: modified — C:\RansomGuard\protected_folder\backup_keys.pem
+[22:54:53] WARNING — THREAT severity=100 reasons=['DECOY TOUCHED: backup_keys.pem']
+[22:55:30] WARNING — Killed processes: []
+[22:55:30] WARNING — Unlocked files: 9
+[22:55:30] WARNING — Starting auto-rollback...
+[22:55:30] INFO — [Rollback] Restored: Financial.xlsx
+[22:55:30] INFO — [Rollback] Restored: Project.docx
+[22:55:30] INFO — [Rollback] Restored: Resume.pdf
+[22:55:30] INFO — [Rollback] Removed rogue file: backup_keys.pem.locked
+[22:55:30] INFO — [Rollback] Removed rogue file: bitcoin_wallet.dat.locked
+[22:55:31] INFO — [Rollback] Removed rogue file: Financial.xlsx.locked
+[22:55:31] INFO — [Rollback] Removed rogue file: Password_Backup.txt.locked
+[22:55:31] INFO — [Rollback] Removed rogue file: Project.docx.locked
+[22:55:31] INFO — [Rollback] Removed rogue file: Resume.pdf.locked
+[22:55:31] INFO — [Rollback] Removed rogue file: Salary_2026.xlsx.locked
+[22:55:31] INFO — [Rollback] Removed rogue file: _AAAA_urgent_budget.docx.locked
+[22:55:31] INFO — [Rollback] Removed rogue file: ~$Project_COPY.docx.locked
+[22:55:31] WARNING — [Rollback] Result: {'restored': 3, 'removed_rogue': 9, 'failed': 0, 'timestamp': '22:55:31'}
+[22:55:31] INFO — Incident snapshot saved: C:\RansomGuard\incident_snapshot.txt
+[10:09:40] INFO — Building initial vault snapshot...
+[10:09:40] INFO — [Rollback] Snapshot complete: 3 files protected.
+[10:11:05] INFO — Event: modified — C:\RansomGuard\protected_folder\backup_keys.pem
+[10:11:05] WARNING — THREAT severity=100 reasons=['DECOY TOUCHED: backup_keys.pem']
+[10:11:38] WARNING — Killed processes: []
+[10:11:38] WARNING — Unlocked files: 9
+[10:11:38] WARNING — Starting auto-rollback...
+[10:11:38] INFO — [Rollback] Restored: Financial.xlsx
+[10:11:38] INFO — [Rollback] Restored: Project.docx
+[10:11:38] INFO — [Rollback] Restored: Resume.pdf
+[10:11:38] INFO — [Rollback] Removed rogue file: backup_keys.pem.locked
+[10:11:38] INFO — [Rollback] Removed rogue file: bitcoin_wallet.dat.locked
+[10:11:38] INFO — [Rollback] Removed rogue file: Financial.xlsx.locked
+[10:11:38] INFO — [Rollback] Removed rogue file: Password_Backup.txt.locked
+[10:11:38] INFO — [Rollback] Removed rogue file: Project.docx.locked
+[10:11:38] INFO — [Rollback] Removed rogue file: Resume.pdf.locked
+[10:11:38] INFO — [Rollback] Removed rogue file: Salary_2026.xlsx.locked
+[10:11:38] INFO — [Rollback] Removed rogue file: _AAAA_urgent_budget.docx.locked
+[10:11:38] INFO — [Rollback] Removed rogue file: ~$Project_COPY.docx.locked
+[10:11:38] WARNING — [Rollback] Result: {'restored': 3, 'removed_rogue': 9, 'failed': 0, 'timestamp': '10:11:38'}
+[10:11:38] INFO — Incident snapshot saved: C:\RansomGuard\incident_snapshot.txt
+[10:39:22] INFO — Event: modified — C:\RansomGuard\protected_folder\Resume.pdf
+[10:39:22] INFO — Event: modified — C:\RansomGuard\protected_folder\Resume.pdf
+[10:39:22] INFO — Event: modified — C:\RansomGuard\protected_folder\Project.docx
+[10:39:22] INFO — Event: modified — C:\RansomGuard\protected_folder\Financial.xlsx
+[10:39:28] INFO — [Rollback] Snapshot complete: 3 files protected.
+[10:49:02] INFO — [Scanner] Starting scan on 7 targets
+[10:49:03] INFO — [Scanner] Done — scanned=160, threats=19, duration=0.9s
+[10:52:03] INFO — [Rollback] Snapshot complete: 3 files protected.
+[10:52:15] INFO — [Scanner] Starting scan on 7 targets
+[10:52:15] INFO — [Scanner] Done — scanned=160, threats=19, duration=0.2s
+[11:03:14] INFO — [Scanner] Starting scan on 7 targets
+[11:03:15] INFO — [Scanner] Done — scanned=160, threats=19, duration=0.6s
+[11:03:16] INFO — [Scanner] Starting scan on 7 targets
+[11:03:16] INFO — [Scanner] Done — scanned=160, threats=19, duration=0.2s
+[11:03:17] INFO — [Scanner] Starting scan on 7 targets
+[11:03:17] INFO — [Scanner] Done — scanned=160, threats=19, duration=0.2s
+[12:08:23] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[12:08:23] INFO — [Rollback] Snapshot complete: 3 files protected.
+[12:08:24] INFO — Event: modified — C:\RansomGuard\protected_folder\backup_keys.pem
+[12:08:25] WARNING — THREAT severity=100
+[12:08:56] INFO — [Scanner] Starting scan on 5 targets
+[12:08:59] INFO — [Scanner] Done — scanned=160, threats=13, duration=3.0s
+[13:43:40] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[13:43:40] INFO — [Rollback] Snapshot complete: 9 files protected.
+[13:43:40] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[13:43:59] INFO — [Scanner] Starting scan on 5 targets
+[13:43:59] INFO — [Scanner] Done — scanned=166, threats=13, duration=0.2s
+[13:44:01] INFO — [Scanner] Starting scan on 5 targets
+[13:44:01] INFO — [Scanner] Done — scanned=166, threats=13, duration=0.2s
+[19:36:22] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[19:36:23] INFO — [Rollback] Snapshot complete: 9 files protected.
+[19:36:23] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[19:36:23] INFO — Event: modified — C:\RansomGuard\protected_folder\backup_keys.pem
+[19:36:23] WARNING — THREAT severity=100
+[19:38:02] INFO — [Rollback] Restored: backup_keys.pem.locked
+[19:38:02] INFO — [Rollback] Restored: bitcoin_wallet.dat.locked
+[19:38:02] INFO — [Rollback] Restored: Password_Backup.txt.locked
+[19:38:02] INFO — [Rollback] Restored: Salary_2026.xlsx.locked
+[19:38:02] INFO — [Rollback] Restored: _AAAA_urgent_budget.docx.locked
+[19:38:02] INFO — [Rollback] Restored: ~$Project_COPY.docx.locked
+[19:38:02] INFO — [Rollback] Removed ransomware file: backup_keys.pem.locked
+[19:38:03] INFO — [Rollback] Removed ransomware file: bitcoin_wallet.dat.locked
+[19:38:03] INFO — [Rollback] Removed ransomware file: Financial.xlsx.locked
+[19:38:03] INFO — [Rollback] Removed ransomware file: Password_Backup.txt.locked
+[19:38:03] INFO — [Rollback] Removed ransomware file: Project.docx.locked
+[19:38:03] INFO — [Rollback] Removed ransomware file: Resume.pdf.locked
+[19:38:03] INFO — [Rollback] Removed ransomware file: Salary_2026.xlsx.locked
+[19:38:03] INFO — [Rollback] Removed ransomware file: _AAAA_urgent_budget.docx.locked
+[19:38:03] INFO — [Rollback] Removed ransomware file: ~$Project_COPY.docx.locked
+[19:38:03] WARNING — [Rollback] Result: {'restored': 6, 'removed_rogue': 9, 'failed': 0, 'timestamp': '19:38:03'}
+[19:38:04] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[11:11:07] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[11:11:07] ERROR — [YARA] Syntax error in rules: C:\RansomGuard\ransomguard\yara_rules\lockbit.yar(26): invalid hex string "$h4": invalid character in hex string
+[11:11:07] ERROR — [YARA] Failed rule file: lockbit.yar — C:\RansomGuard\ransomguard\yara_rules\lockbit.yar(26): invalid hex string "$h4": invalid character in hex string
+[11:11:07] INFO — [Rollback] Snapshot complete: 0 files protected.
+[11:11:07] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[11:11:10] INFO — Event: created — C:\RansomGuard\protected_folder\HOW_TO_DECRYPT.txt
+[11:11:10] INFO — Event: modified — C:\RansomGuard\protected_folder\HOW_TO_DECRYPT.txt
+[11:11:10] INFO — Event: created — C:\RansomGuard\protected_folder\cleanup.bat
+[11:11:10] INFO — Event: modified — C:\RansomGuard\protected_folder\cleanup.bat
+[11:12:17] ERROR — [YARA] Syntax error in rules: C:\RansomGuard\ransomguard\yara_rules\lockbit.yar(26): invalid hex string "$h4": invalid character in hex string
+[11:12:17] ERROR — [YARA] Failed rule file: lockbit.yar — C:\RansomGuard\ransomguard\yara_rules\lockbit.yar(26): invalid hex string "$h4": invalid character in hex string
+[11:12:17] INFO — [Scanner] Starting scan on 5 targets
+[11:12:18] INFO — Event: modified — C:\RansomGuard\protected_folder\bitcoin_wallet.dat
+[11:12:18] WARNING — THREAT severity=100
+[11:12:20] INFO — [Scanner] Done — scanned=160, threats=5, duration=2.9s
+[11:13:46] INFO — [Rollback] Removed rogue file: cleanup.bat
+[11:13:46] INFO — [Rollback] Removed rogue file: HOW_TO_DECRYPT.txt
+[11:13:46] WARNING — [Rollback] Result: {'restored': 0, 'removed_rogue': 2, 'failed': 0, 'timestamp': '11:13:46'}
+[11:13:47] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[11:16:55] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[11:16:55] ERROR — [YARA] Syntax error in rules: C:\RansomGuard\ransomguard\yara_rules\lockbit.yar(26): invalid hex string "$h4": invalid character in hex string
+[11:16:55] ERROR — [YARA] Failed rule file: lockbit.yar — C:\RansomGuard\ransomguard\yara_rules\lockbit.yar(26): invalid hex string "$h4": invalid character in hex string
+[11:16:55] INFO — [Rollback] Snapshot complete: 0 files protected.
+[11:16:55] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[11:16:58] INFO — Event: created — C:\RansomGuard\protected_folder\HOW_TO_DECRYPT.txt
+[11:16:59] INFO — Event: modified — C:\RansomGuard\protected_folder\HOW_TO_DECRYPT.txt
+[11:16:59] INFO — Event: created — C:\RansomGuard\protected_folder\cleanup.bat
+[11:16:59] INFO — Event: modified — C:\RansomGuard\protected_folder\cleanup.bat
+[11:18:25] INFO — Event: created — C:\RansomGuard\protected_folder\Resume.pdf
+[11:18:26] INFO — Event: modified — C:\RansomGuard\protected_folder\Resume.pdf
+[11:18:26] INFO — Event: created — C:\RansomGuard\protected_folder\Project.docx
+[11:18:26] INFO — Event: modified — C:\RansomGuard\protected_folder\Project.docx
+[11:18:27] INFO — Event: created — C:\RansomGuard\protected_folder\Financial.xlsx
+[11:18:27] INFO — Event: modified — C:\RansomGuard\protected_folder\Financial.xlsx
+[11:19:44] INFO — Event: modified — C:\RansomGuard\protected_folder\HOW_TO_DECRYPT.txt
+[11:19:44] INFO — Event: modified — C:\RansomGuard\protected_folder\HOW_TO_DECRYPT.txt
+[11:19:44] INFO — Event: modified — C:\RansomGuard\protected_folder\Resume.pdf
+[11:19:44] INFO — Event: modified — C:\RansomGuard\protected_folder\Resume.pdf
+[11:19:44] INFO — Event: moved — C:\RansomGuard\protected_folder\Resume.pdf
+[11:19:44] WARNING — THREAT severity=100
+[11:20:01] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[11:20:01] INFO — [YARA] Compiled 4 rule files.
+[11:20:01] INFO — [Rollback] Snapshot complete: 5 files protected.
+[11:20:01] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[11:20:33] INFO — [YARA] Compiled 4 rule files.
+[11:20:33] INFO — [Scanner] Starting scan on 5 targets
+[11:20:35] INFO — [Scanner] Done — scanned=163, threats=28, duration=2.0s
+[11:52:07] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[11:52:07] INFO — [YARA] Compiled 4 rule files.
+[11:52:07] INFO — [SelfDefense] Activating...
+[11:52:07] INFO — [SelfDefense] Protecting 9 critical files
+[11:52:07] INFO — [SelfDefense] Integrity baseline saved (9 files)
+[11:52:07] INFO — [SelfDefense] Registry guard active
+[11:52:07] INFO — [SelfDefense] Process priority raised to HIGH
+[11:52:07] INFO — [SelfDefense] Heartbeat started (every 2s)
+[11:52:07] INFO — [SelfDefense] Integrity monitor started (every 30s)
+[11:52:07] INFO — [SelfDefense] All layers active
+[11:52:07] ERROR — Snapshot failed: expected str, bytes or os.PathLike object, not list
+[11:52:07] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[11:53:07] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[11:53:07] INFO — [YARA] Compiled 4 rule files.
+[11:53:07] INFO — [SelfDefense] Activating...
+[11:53:07] INFO — [SelfDefense] Protecting 9 critical files
+[11:53:07] INFO — [SelfDefense] Integrity baseline saved (9 files)
+[11:53:07] INFO — [SelfDefense] Registry guard active
+[11:53:07] INFO — [SelfDefense] Process priority raised to HIGH
+[11:53:07] INFO — [SelfDefense] Heartbeat started (every 2s)
+[11:53:07] INFO — [SelfDefense] Integrity monitor started (every 30s)
+[11:53:07] INFO — [SelfDefense] All layers active
+[11:53:07] INFO — [Rollback] Snapshot complete: 5 files across 5 folders.
+[11:53:07] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[11:53:21] INFO — [YARA] Compiled 4 rule files.
+[11:53:21] INFO — [Scanner] Starting scan on 5 targets
+[11:53:23] INFO — [Scanner] Done — scanned=163, threats=28, duration=1.6s
+[11:54:03] INFO — Event: modified — C:\RansomGuard\protected_folder\backup_keys.pem
+[11:54:03] WARNING — THREAT severity=100
+[11:55:10] INFO — [Rollback] Restored: cleanup.bat
+[11:55:10] INFO — [Rollback] Restored: HOW_TO_DECRYPT.txt
+[11:55:10] INFO — [Rollback] Removed rogue: backup_keys.pem.locked
+[11:55:10] INFO — [Rollback] Removed rogue: bitcoin_wallet.dat.locked
+[11:55:10] INFO — [Rollback] Removed rogue: cleanup.bat.locked
+[11:55:10] INFO — [Rollback] Removed rogue: HOW_TO_DECRYPT.txt.locked
+[11:55:10] INFO — [Rollback] Removed rogue: Password_Backup.txt.locked
+[11:55:10] INFO — [Rollback] Removed rogue: Salary_2026.xlsx.locked
+[11:55:10] INFO — [Rollback] Removed rogue: _AAAA_urgent_budget.docx.locked
+[11:55:10] INFO — [Rollback] Removed rogue: ~$Project_COPY.docx.locked
+[11:55:10] INFO — [Rollback] Removed ransomware: Financial.xlsx.locked
+[11:55:10] INFO — [Rollback] Removed ransomware: Project.docx.locked
+[11:55:10] INFO — [Rollback] Removed ransomware: Resume.pdf.locked
+[11:55:10] WARNING — [Rollback] Result: {'restored': 2, 'removed_rogue': 11, 'failed': 0, 'timestamp': '11:55:10'}
+[11:55:11] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[12:23:28] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[12:23:28] INFO — [YARA] Compiled 4 rule files.
+[12:23:28] INFO — [SelfDefense] Activating...
+[12:23:28] INFO — [SelfDefense] Protecting 9 critical files
+[12:23:28] INFO — [SelfDefense] Integrity baseline saved (9 files)
+[12:23:28] INFO — [SelfDefense] Registry guard active
+[12:23:28] INFO — [SelfDefense] Process priority raised to HIGH
+[12:23:28] INFO — [SelfDefense] Heartbeat started (every 2s)
+[12:23:28] INFO — [SelfDefense] Integrity monitor started (every 30s)
+[12:23:28] INFO — [SelfDefense] All layers active
+[12:23:28] INFO — [Rollback] Snapshot complete: 2 files across 5 folders.
+[12:23:28] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[12:23:48] INFO — [YARA] Compiled 4 rule files.
+[12:23:48] INFO — [Scanner] Starting scan on 5 targets
+[12:23:49] INFO — [Scanner] Done — scanned=160, threats=25, duration=1.7s
+[10:26:03] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[10:26:03] INFO — [YARA] Compiled 4 rule files.
+[10:26:03] INFO — [SelfDefense] Activating...
+[10:26:03] INFO — [SelfDefense] Protecting 9 critical files
+[10:26:03] INFO — [SelfDefense] Integrity baseline saved (9 files)
+[10:26:03] INFO — [SelfDefense] Registry guard active
+[10:26:03] INFO — [SelfDefense] Process priority raised to HIGH
+[10:26:03] INFO — [SelfDefense] Heartbeat started (every 2s)
+[10:26:03] INFO — [SelfDefense] Integrity monitor started (every 30s)
+[10:26:03] INFO — [SelfDefense] All layers active
+[10:26:03] INFO — [Rollback] Snapshot complete: 2 files across 5 folders.
+[10:26:03] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[10:26:33] INFO — [YARA] Compiled 4 rule files.
+[10:26:33] INFO — [Scanner] Starting scan on 5 targets
+[10:26:35] INFO — Event: modified — C:\RansomGuard\protected_folder\backup_keys.pem
+[10:26:35] WARNING — THREAT severity=100
+[10:26:37] INFO — [Scanner] Done — scanned=160, threats=25, duration=4.0s
+[10:27:41] WARNING — [Rollback] Result: {'restored': 0, 'removed_rogue': 0, 'failed': 0, 'timestamp': '10:27:41'}
+[10:27:42] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[10:56:16] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[10:56:16] INFO — [YARA] Compiled 4 rule files.
+[10:56:16] INFO — [SelfDefense] Activating...
+[10:56:16] INFO — [SelfDefense] Protecting 9 critical files
+[10:56:16] INFO — [SelfDefense] Integrity baseline saved (9 files)
+[10:56:16] INFO — [SelfDefense] Registry guard active
+[10:56:16] INFO — [SelfDefense] Process priority raised to HIGH
+[10:56:16] INFO — [SelfDefense] Heartbeat started (every 2s)
+[10:56:16] INFO — [SelfDefense] Integrity monitor started (every 30s)
+[10:56:16] INFO — [SelfDefense] All layers active
+[10:56:16] INFO — [Rollback] Snapshot complete: 2 files across 5 folders.
+[10:56:16] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[11:11:01] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[11:11:01] INFO — [YARA] Compiled 4 rule files.
+[11:11:01] INFO — [SelfDefense] Activating...
+[11:11:01] INFO — [SelfDefense] Protecting 9 critical files
+[11:11:01] INFO — [SelfDefense] Integrity baseline saved (9 files)
+[11:11:01] INFO — [SelfDefense] Registry guard active
+[11:11:01] INFO — [SelfDefense] Process priority raised to HIGH
+[11:11:01] INFO — [SelfDefense] Heartbeat started (every 2s)
+[11:11:01] INFO — [SelfDefense] Integrity monitor started (every 30s)
+[11:11:01] INFO — [SelfDefense] All layers active
+[11:11:01] INFO — [Rollback] Snapshot complete: 2 files across 5 folders.
+[11:11:01] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[11:11:03] INFO — Event: modified — C:\RansomGuard\protected_folder\backup_keys.pem
+[11:11:03] WARNING — THREAT severity=100
+[11:11:04] WARNING — [Screenshot] Captured: attack_2026-10-06_11-11-03.png
+[11:11:04] WARNING — [Screenshot] Saved to C:\RansomGuard\screenshots\attack_2026-10-06_11-11-03.png
+[11:12:06] INFO — [Rollback] Restored: cleanup.bat
+[11:12:06] INFO — [Rollback] Restored: HOW_TO_DECRYPT.txt
+[11:12:06] INFO — [Rollback] Removed rogue: backup_keys.pem.locked
+[11:12:06] INFO — [Rollback] Removed rogue: bitcoin_wallet.dat.locked
+[11:12:06] INFO — [Rollback] Removed rogue: cleanup.bat.locked
+[11:12:06] INFO — [Rollback] Removed rogue: HOW_TO_DECRYPT.txt.locked
+[11:12:06] INFO — [Rollback] Removed rogue: Password_Backup.txt.locked
+[11:12:06] INFO — [Rollback] Removed rogue: Salary_2026.xlsx.locked
+[11:12:06] INFO — [Rollback] Removed rogue: _AAAA_urgent_budget.docx.locked
+[11:12:06] INFO — [Rollback] Removed rogue: ~$Project_COPY.docx.locked
+[11:12:06] WARNING — [Rollback] Result: {'restored': 2, 'removed_rogue': 8, 'failed': 0, 'timestamp': '11:12:06'}
+[11:12:07] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[11:16:13] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[11:16:13] INFO — [YARA] Compiled 4 rule files.
+[11:16:13] INFO — [SelfDefense] Activating...
+[11:16:13] INFO — [SelfDefense] Protecting 9 critical files
+[11:16:13] INFO — [SelfDefense] Integrity baseline saved (9 files)
+[11:16:13] INFO — [SelfDefense] Registry guard active
+[11:16:13] INFO — [SelfDefense] Process priority raised to HIGH
+[11:16:13] INFO — [SelfDefense] Heartbeat started (every 2s)
+[11:16:13] INFO — [SelfDefense] Integrity monitor started (every 30s)
+[11:16:13] INFO — [SelfDefense] All layers active
+[11:16:13] INFO — [Rollback] Snapshot complete: 2 files across 5 folders.
+[11:16:13] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[11:16:27] WARNING — [Screenshot] Captured: test_2026-10-06_11-16-26.png
+[11:25:23] WARNING — [Screenshot] Captured: test_2026-10-06_11-25-23.png
+[11:33:18] WARNING — [Screenshot] Captured: test_2026-10-06_11-33-18.png
+[11:59:18] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[11:59:18] INFO — [YARA] Compiled 4 rule files.
+[11:59:18] INFO — [SelfDefense] Activating...
+[11:59:18] INFO — [SelfDefense] Protecting 9 critical files
+[11:59:18] INFO — [SelfDefense] Integrity baseline saved (9 files)
+[11:59:18] INFO — [SelfDefense] Registry guard active
+[11:59:18] INFO — [SelfDefense] Process priority raised to HIGH
+[11:59:18] INFO — [SelfDefense] Heartbeat started (every 2s)
+[11:59:18] INFO — [SelfDefense] Integrity monitor started (every 30s)
+[11:59:18] INFO — [SelfDefense] All layers active
+[11:59:18] INFO — [Rollback] Snapshot complete: 2 files across 5 folders.
+[11:59:18] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[11:59:35] INFO — [YARA] Compiled 4 rule files.
+[11:59:35] INFO — [Scanner] Starting scan on 5 targets
+[11:59:37] INFO — [Scanner] Done — scanned=160, threats=25, duration=2.4s
+[12:00:04] WARNING — [Screenshot] Captured: test_2026-10-06_12-00-04.png
+[12:24:28] INFO — [MLDetector] Loaded model from C:\RansomGuard\ml\ransomguard_model.pkl
+[12:24:28] INFO — [YARA] Compiled 4 rule files.
+[12:24:28] INFO — [SelfDefense] Activating...
+[12:24:28] INFO — [SelfDefense] Protecting 9 critical files
+[12:24:28] INFO — [SelfDefense] Integrity baseline saved (9 files)
+[12:24:28] INFO — [SelfDefense] Registry guard active
+[12:24:28] INFO — [SelfDefense] Process priority raised to HIGH
+[12:24:28] INFO — [SelfDefense] Heartbeat started (every 2s)
+[12:24:28] INFO — [SelfDefense] Integrity monitor started (every 30s)
+[12:24:28] INFO — [SelfDefense] All layers active
+[12:24:28] INFO — [Rollback] Snapshot complete: 2 files across 5 folders.
+[12:24:28] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.
+[12:24:36] INFO — [YARA] Compiled 4 rule files.
+[12:24:36] INFO — [Scanner] Starting scan on 5 targets
+[12:24:37] INFO — Event: modified — C:\RansomGuard\protected_folder\backup_keys.pem
+[12:24:37] WARNING — THREAT severity=100
+[12:24:37] WARNING — [Screenshot] Captured: attack_2026-10-06_12-24-37.png
+[12:24:37] WARNING — [Screenshot] Saved to C:\RansomGuard\screenshots\attack_2026-10-06_12-24-37.png
+[12:24:40] INFO — [Scanner] Done — scanned=160, threats=25, duration=3.4s
+[12:25:38] WARNING — [Rollback] Result: {'restored': 0, 'removed_rogue': 0, 'failed': 0, 'timestamp': '12:25:38'}
+[12:25:40] INFO — [Honeypot] Deployed 13 bait files across 4 fake shares.

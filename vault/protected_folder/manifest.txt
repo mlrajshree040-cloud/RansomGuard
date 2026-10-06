@@ -1,0 +1,2 @@
+f93fe84cc51a4a31e1aeec2fd8398677938017e0bad0b50b30cea3707a4ff7c9  cleanup.bat
+76359dab11b39fa3ebde9e28bbf3aeab8a784fdd23d75dc5aa2652b03d090a1a  HOW_TO_DECRYPT.txt

@@ -1,0 +1,11 @@
+{
+  "C:\\RansomGuard\\main.py": "56b37f24efbc44cdeed61b80915ec66ccaba0b5ddcde08af4266c47e1218adb9",
+  "C:\\RansomGuard\\ransomguard\\detector.py": "23bfe0c8084f4a33ecdf710ce5df10670e0df25d6d3a2f7378b617ca260720f3",
+  "C:\\RansomGuard\\ransomguard\\response.py": "2a2745bdd673f1775edfdb106c12a50da7a69a3c2aadedca66ad81d96b9a374c",
+  "C:\\RansomGuard\\ransomguard\\yara_engine.py": "665ecf119b4c272b109c9243d3dc02f4a11e8c95d7c09367d07b82937d6349cf",
+  "C:\\RansomGuard\\ransomguard\\yara_rules\\lockbit.yar": "9bcf67c5bc3509c666895e9c622a9ab49d0c12007d441122af98d354e1673ed8",
+  "C:\\RansomGuard\\ransomguard\\yara_rules\\wannacry.yar": "cadbb8371673845918bd673f0b0a72de472fc1e698e0a1001d32197bcdbf57d4",
+  "C:\\RansomGuard\\ransomguard\\yara_rules\\lynx.yar": "22ec40feb9713c5aaca2f03c5b5c9182be1da3edc8980daf431998bdd947c4c1",
+  "C:\\RansomGuard\\ransomguard\\yara_rules\\ransomware_generic.yar": "bd739d021704217f5eae6e298b63c748bde98f2e96cc7d7595d74fa6feb67e39",
+  "C:\\RansomGuard\\ml\\ransomguard_model.pkl": "ca1a35defd8ec3fb26c48ec29545d64d2d0dba753c400afe6e463c58cd3e74b3"
+}
